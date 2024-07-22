@@ -1,0 +1,109 @@
+.body{
+  margin: 0;    
+}
+  
+.header{
+  background-color:#5d9180;
+  text-align: center;
+}
+  
+.topnav{
+  overflow: hidden;
+  background-color: white;
+}
+  
+.topnav a{
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+  font-size: large;  
+}
+
+.cart{
+  float: right;
+  padding: 7px ;   
+}
+    
+.topnav a:hover{
+  background-color:#5d9180;
+  color:black;
+}
+  
+.logout{
+  float: right;
+}
+  
+.image{
+  padding:0px 10px;
+}
+
+.column{
+  float:left;
+  padding: 20px 150px;
+}
+
+.column1{
+  float:left;
+  padding: 100px 0px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.column h3{
+  padding: 5px 15px;
+}
+
+.row::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column6{
+  padding: 120px 150px;
+  float: right;
+  font-family:Arial, Helvetica, sans-serif;
+}
+  
+.column2{
+  float:right;
+  padding: px 600px;
+  
+}
+    
+.image1{
+  padding: 90px 100px;
+}
+
+.column7{
+  float:right;
+  padding: 120px 147px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+  
+.image2{
+  float:left;
+  padding: 10px 100px;
+}
+
+.column3{
+  float:left;
+  padding: 70px 30px;
+}
+
+.column8{
+  float:left;
+  padding: 60px 150px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+  
+.image3{
+  padding: 20px 10px;
+}
+  
+.column4{
+  float:right;
+  padding: 0px 50px;
+}
